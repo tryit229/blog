@@ -1,0 +1,4 @@
+baseURL = "http://janet.rdpm.me/"
+languageCode = "zh-cn"
+title = "To Be a Better Me"
+theme = "ananke"
